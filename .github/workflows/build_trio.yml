@@ -3,7 +3,6 @@ run-name: Build Trio (${{ github.ref_name }})
 
 on:
   workflow_dispatch:
-    echo "hej test rad 6 in workflow dispatch"
 
   ## Remove the "#" sign from the beginning of the line below to get automated builds on push (code changes in your repository)
   #push:
